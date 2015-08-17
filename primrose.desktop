@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Primrose
+Comment=A captivating tile-clearing puzzle game by Jason Rohrer
+Exec=primrose
+Icon=primrose.png
+Terminal=false
+Categories=Game;LogicGame;
